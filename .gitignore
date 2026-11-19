@@ -1,0 +1,13 @@
+# Hasil build Maven
+target/
+
+# Database SQLite lokal (dibuat otomatis saat aplikasi jalan)
+data/*.db
+data/*.db-journal
+
+# IDE
+nbactions.xml
+nb-configuration.xml
+.idea/
+*.iml
+.vscode/
